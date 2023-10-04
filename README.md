@@ -3,6 +3,8 @@
 ## Overview
 
 This README provides detailed information on how to use and understand our web scraping project implemented using Beautiful Soup, a Python library for parsing HTML and XML documents. Web scraping is the process of extracting data from websites, and Beautiful Soup is a powerful tool for this purpose.
+## website url : 
+https://www.imdb.com/chart/top/
 ## Getting Started
 
 Before diving into the project, it's essential to understand the basics of web scraping and how Beautiful Soup fits into the process:
